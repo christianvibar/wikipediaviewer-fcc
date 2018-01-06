@@ -1,0 +1,44 @@
+body {
+  background: #0e0e4f !important;
+  font-family: 'Arvo', serif !important;
+}
+
+h1 {
+  padding-top: 20px;
+  color: white !important;
+}
+
+#randomArticle {
+  color: #FEE66F;
+}
+
+#searchField {
+  margin-left: -20px;
+}
+
+.btn-primary {
+  background-color: #FEE66F;
+  border-color: #FEE66F;
+  color: black;
+}
+
+.btn-primary:hover {
+  cursor: pointer;
+  background-color: #FEE66F;
+  border-color: #FEE66F;
+  color: black;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  color: black;
+  background-color: #FEE66F;
+  border-style: solid;
+  border-color: #FEE66F;
+  margin-top: 10px;
+  border-radius: 5px;
+  padding: 5px;
+}
